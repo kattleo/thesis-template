@@ -11,3 +11,10 @@
 *.out
 *.fdb_latexmk
 *.fls
+
+# Common LaTeX ignore patterns
+*.gz
+*.pdf
+*.synctex.gz
+*.xmpi
+*.xmpdata
